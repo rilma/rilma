@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rilma
 - 👀 I’m interested in ... Data & Software Engineering
-- 🌱 I’m currently learning ... Go
+- 🌱 I’m currently learning ... Go & Rust
 - 💞️ I’m looking to collaborate on ... Distributed Systems
 - 📫 How to reach me ... through Github
 
