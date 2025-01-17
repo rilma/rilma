@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rilma
 - 👀 I’m interested in ... Data & Software Engineering
 - 🌱 I’m currently learning ... Rust
-- 💞️ I’m looking to collaborate on ... Distributed Systems
+- 💞️ I’m looking to collaborate on ... Data & Software Engineering projects
 - 📫 How to reach me ... through Github
 
 <!---
